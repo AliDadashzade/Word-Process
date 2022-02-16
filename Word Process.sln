@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Word Process", "Word Process.csproj", "{7CFC29B4-9DB0-45BC-8C99-4C593118ABCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CFC29B4-9DB0-45BC-8C99-4C593118ABCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CFC29B4-9DB0-45BC-8C99-4C593118ABCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CFC29B4-9DB0-45BC-8C99-4C593118ABCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CFC29B4-9DB0-45BC-8C99-4C593118ABCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD88E1F3-5A10-4E5D-8BFE-577D9106D4F7}
+	EndGlobalSection
+EndGlobal
